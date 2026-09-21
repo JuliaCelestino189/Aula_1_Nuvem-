@@ -1,8 +1,5 @@
 # Aula_1_Computação_em_nuvem
 
-
-Atividade – Introdução à Computação em Nuvem
-
 Nesta atividade, utilizamos o Killercoda para acessar um ambiente Linux remoto por meio do navegador. O objetivo foi conhecer o ambiente e praticar comandos básicos do sistema operacional Linux.
 
 Inicialmente, verificamos informações da máquina, como usuário (whoami), nome do computador (hostname), versão do kernel (uname -a) e sistema operacional (cat /etc/os-release). Foi identificado que o ambiente utiliza Ubuntu 24.04.4 LTS.
