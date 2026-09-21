@@ -1,4 +1,4 @@
-# Aula_1_Computação_em_nuvem
+# Computação-em_nuvem-aula1
 
 Nesta atividade, utilizamos o Killercoda para acessar um ambiente Linux remoto por meio do navegador. O objetivo foi conhecer o ambiente e praticar comandos básicos do sistema operacional Linux.
 
